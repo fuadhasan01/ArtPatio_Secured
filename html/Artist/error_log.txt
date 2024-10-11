@@ -1,0 +1,9 @@
+[2024-10-04 09:18:05] ERROR: You cannot upload files of this type.
+[2024-10-04 09:19:03] ERROR: File size exceeds 2MB limit.
+[2024-10-04 09:20:07] ERROR: Failed to move uploaded file.
+[2024-10-04 09:21:17] Failed to upload the artwork.
+[2024-10-04 09:38:46] ERROR: Failed to move uploaded file.
+[2024-10-04 19:34:32] ERROR: Failed to move uploaded file.
+[2024-10-10 19:33:28] ERROR: File size exceeds 2MB limit.
+[2024-10-10 19:34:26] ERROR: Failed to move uploaded file.
+[2024-10-10 19:58:49] ERROR: Failed to move uploaded file.
