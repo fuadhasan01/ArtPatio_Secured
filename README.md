@@ -60,16 +60,4 @@ The implementation of these security features has led to:
 - Comprehensive audit logging for accountability and early breach detection.
 - Secure error logging preventing the exposure of sensitive information.
 
-## Contributing
 
-We welcome contributions to improve the security of ArtPatio. Please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature/YourFeature`).
-3. Make your changes and commit them (`git commit -m 'Add new feature'`).
-4. Push to the branch (`git push origin feature/YourFeature`).
-5. Open a pull request.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
